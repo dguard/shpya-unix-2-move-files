@@ -3,7 +3,7 @@
 
 **Использование**:
 
-    **./fmv.sh** directory destination type_of_move \[extension\]
+   **./fmv.sh** directory destination type_of_move \[extension\]
 
  - **directory** - директория для поиска
   
